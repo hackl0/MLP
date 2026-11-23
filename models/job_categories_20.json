@@ -1,0 +1,22 @@
+{
+  "leadership": "Direction, management et conseil",
+  "software": "Informatique, développement et cybersécurité",
+  "data_ai": "Data et intelligence artificielle",
+  "product": "Produit, gestion de projet et design",
+  "engineering": "Recherche et ingénierie",
+  "production": "Industrie, production et qualité",
+  "sales": "Commerce, vente et relation client",
+  "marketing": "Marketing, médias et culture",
+  "hr": "Ressources humaines et formation",
+  "finance": "Finance, banque et assurance",
+  "legal": "Droit, conformité et administration",
+  "logistics": "Achats, logistique et transport",
+  "health": "Santé et accompagnement social",
+  "construction": "Bâtiment, architecture et immobilier",
+  "agriculture": "Agriculture et métiers du vivant",
+  "hospitality": "Hôtellerie, restauration et tourisme",
+  "sport": "Sport et bien-être",
+  "public_safety": "Sécurité et secours",
+  "other": "Autres métiers",
+  "unknown": "Métier non déterminé"
+}

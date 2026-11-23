@@ -1,0 +1,37 @@
+{
+  "modele": "MLP (128, 64)",
+  "python": "3.12",
+  "versions": {
+    "scikit-learn": "1.9.1",
+    "numpy": "2.5.5",
+    "scipy": "1.18.1",
+    "joblib": "1.6.0",
+    "threadpoolctl": "3.8.0",
+    "pandas": "3.1.1"
+  },
+  "categories": [
+    "data_ai",
+    "engineering",
+    "finance",
+    "hr",
+    "leadership",
+    "legal",
+    "logistics",
+    "marketing",
+    "product",
+    "production",
+    "public_safety",
+    "sales",
+    "software"
+  ],
+  "vocabulaire": 6080,
+  "nombre_textes_test": 1198,
+  "accuracy_test": 0.7746243739565943,
+  "f1_macro_test": 0.7210519601222548,
+  "sha256": {
+    "job_categories_20.json": "59558b2db9a2a13d4bf103c20aa8f1fe520d437d4d2e75bba7fb18ab10820a0d",
+    "metiers_encodeur_categories.joblib": "e059e9dff2467af0ad6a99cf1e517d2456602aef9a3738eff1d95256194854cb",
+    "metiers_meilleur_mlp.joblib": "145ec6c10da3414b483b43b786aef71201ee24d14cf0b1c097c16ad31558767e",
+    "metiers_vectoriseur_tfidf.joblib": "07e0223ca2b8d88e56792600942ce6db05b7187cb8c31a05edb1311c3a46a1c9"
+  }
+}
